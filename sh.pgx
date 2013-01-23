@@ -1,0 +1,4 @@
+# Pegex grammar for Shell
+
+%grammar shell
+%version 0.0.0
